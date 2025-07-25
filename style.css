@@ -140,14 +140,14 @@ nav a {
 }
 
 /* ===== FOOTER ===== */
-/*
+
 footer {
   background-color: #1f2937;
   color: white;
   text-align: center;
   padding: 1rem;
 }
-
+/*
 @media (max-width: 600px) {
   nav ul {
     flex-direction: column;
