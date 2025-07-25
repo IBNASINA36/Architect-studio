@@ -147,8 +147,9 @@ footer {
   text-align: center;
   padding: 1rem;
 }
-/*
-@media (max-width: 600px) {
+
+@media screen and (min-width:576px)and(max-width:992px)
+      {
   nav ul {
     flex-direction: column;
     gap: 0.5rem;
@@ -163,4 +164,4 @@ footer {
   .image-text-section {
     flex-direction: column;
   }
-}*/
+}
